@@ -1,9 +1,7 @@
 # 100 Days Of Code - Log
 
-### Day 0: April 6th 2020 (Example 1)
+### Day 0: April 6th 2020 
 
-**Today's Progress**: 
+**Today's Progress**: Started 100 days of code!
 
 **Link(s) to work**
-1. [Find the Longest Word in a String]()
-2. [Title Case a Sentence]()
