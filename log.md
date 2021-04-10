@@ -26,3 +26,10 @@
 **Thoughts**: Love that I get to work with Python again!
 
 **Link(s) to work**
+
+
+### Day : April 9th 2021
+
+**Today's Progress**: Started using Django and created models. One step closer to building my own Django REST API!
+
+**thoughts**: This week has been stressfull, with Hack Week, Project 4, getting everything ready before the job search, Twitter. But I wouldnt have it any other way. The Strongest Steel is forged the hottest fires.
