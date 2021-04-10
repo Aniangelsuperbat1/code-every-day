@@ -30,6 +30,6 @@
 
 ### Day : April 9th 2021
 
-**Today's Progress**: Started using Django and created models. One step closer to building my own Django REST API!
+**Today's Progress**: Started using Django and created models. One step closer to building my own Django REST API! Also continuing work on my Three.JS 3-D animation. Almost done with globe spinning. 
 
 **thoughts**: This week has been stressfull, with Hack Week, Project 4, getting everything ready before the job search, Twitter. But I wouldnt have it any other way. The Strongest Steel is forged the hottest fires.
