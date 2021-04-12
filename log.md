@@ -41,3 +41,15 @@
 [Make Upper Case](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7)
 
 [Deployed Project](https://serene-bartik-893c29.netlify.app/)
+
+## Day 5: April 11th 2021
+
+**Today's Progress**: Finished a code challenge on codewars! It was a level 7 KYU so I am moving on up!. Was able to add a moon to my 3D animation project! And it rotates around the earth! That was the last part of the project! 
+
+**Thoughts**: Am glad another project is done and under my belt! Now that the week is over and everything is finished, I feel completely stress free...until the next porject haha. Excited to present tomorrow(monday)
+
+**Link(s) to work**:
+[Digitize](https://www.codewars.com/kata/5417423f9e2e6c2f040002ae)
+
+
+
