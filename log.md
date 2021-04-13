@@ -51,5 +51,13 @@
 **Link(s) to work**:
 [Digitize](https://www.codewars.com/kata/5417423f9e2e6c2f040002ae)
 
+## Day 6: April 12th 2021
+
+**Today's Progress**: Presentation of my ThreeJS Animation project went well! Was amazed to see all the other projects! Django threw such a huge curve ball today! Way too confusing to learn all in one day.
+
+**Thoughts**: Out of the frying pan, into the fire. No break between finishing the project and getting right back into working on more code. i like it though, keeps us on our feet and is preparing us for the real development world! I do wish I had more time to solve code challenges though! They are a lot of fun!
+
+
+
 
 
