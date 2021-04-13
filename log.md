@@ -60,6 +60,8 @@
 **Link(s) to work**: 
 [Birthday Cake Problem](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)
 
+[Loops](https://www.hackerrank.com/challenges/python-loops/problem)
+
 
 
 
