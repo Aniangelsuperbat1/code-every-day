@@ -57,6 +57,8 @@
 
 **Thoughts**: Out of the frying pan, into the fire. No break between finishing the project and getting right back into working on more code. i like it though, keeps us on our feet and is preparing us for the real development world! I do wish I had more time to solve code challenges though! They are a lot of fun!
 
+**Link(s) to work**: 
+[Birthday Cake Problem](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)
 
 
 
