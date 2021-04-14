@@ -64,11 +64,11 @@
 
 ## Day 7: April 13th 2021
 
-**Today's Progress**: Worked On a lot more Django than I thought possible. From a monolith app to learning Django REST framework. Cool Stuff, cannot wait for tommorow.
+**Today's Progress**: Worked On a lot more Django than I thought possible. From a monolith app to learning Django REST framework. Cool Stuff, cannot wait for tommorow. Was also able to get a coding challenge in! Solved a medium challenge in HackerRank. I feel accomplished.
 
 **Thoughts**: Today was another whirlwind lesson on Django. The more you dive deeper into code, you more you realize you dont know anthing but you find the strength to want to learn!
 
-**Link(s) to work**:
+**Link(s) to work**:[Leap Year](https://www.hackerrank.com/challenges/write-a-function/problem)
 
 ## Day 8: April 14th 2021
 
