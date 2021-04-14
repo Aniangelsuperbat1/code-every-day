@@ -44,7 +44,7 @@
 
 ## Day 5: April 11th 2021
 
-**Today's Progress**: Finished a code challenge on codewars! It was a level 7 KYU so I am moving on up!. Was able to add a moon to my 3D animation project! And it rotates around the earth! That was the last part of the project! 
+**Today's Progress**: Finished a code challenge on codewars! It was a level 7 KYU so I am moving on up!. Was able to add a moon to my 3D animation project! And it rotates around the earth! That was the last part of the project!
 
 **Thoughts**: Am glad another project is done and under my belt! Now that the week is over and everything is finished, I feel completely stress free...until the next porject haha. Excited to present tomorrow(monday)
 
@@ -57,11 +57,103 @@
 
 **Thoughts**: Out of the frying pan, into the fire. No break between finishing the project and getting right back into working on more code. i like it though, keeps us on our feet and is preparing us for the real development world! I do wish I had more time to solve code challenges though! They are a lot of fun!
 
-**Link(s) to work**: 
+**Link(s) to work**:
 [Birthday Cake Problem](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)
 
 [Loops](https://www.hackerrank.com/challenges/python-loops/problem)
 
+### Day 7: April 13th 2021
 
+**Today's Progress**: Worked On a lot more Django than I thought possible. From a monolith app to learning Django REST framework. Cool Stuff, cannot wait for tommorow.
 
+**Thoughts**: Today was another whirlwind lesson on Django. The more you dive deeper into code, you more you realize you dont know anthing but you find the strength to want to learn!
 
+**Link(s) to work**:
+
+### Day 8: April 14th 2021
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+### Day 9: April 15th 2021
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+### Day 10: April 16th 2021
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+### Day 11: April 117th 2021
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+### Day 12: April 18th 2021
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+### Day 13: April 19th 2021
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+### Day 14: April 20th 2021
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+### Day 15: April 21st 2021
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+### Day 16: April 22nd 2021
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+### Day 17: April 23rd 2021
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+### Day 18: April 24th 2021
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
