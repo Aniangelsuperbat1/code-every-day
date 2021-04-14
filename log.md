@@ -68,7 +68,7 @@
 
 **Thoughts**: Today was another whirlwind lesson on Django. The more you dive deeper into code, you more you realize you dont know anthing but you find the strength to want to learn!
 
-**Link(s) to work**:[Leap Year](https://www.hackerrank.com/challenges/write-a-function/problem)
+**Link(s) to work**: [Leap Year](https://www.hackerrank.com/challenges/write-a-function/problem)
 
 ## Day 8: April 14th 2021
 
