@@ -62,7 +62,7 @@
 
 [Loops](https://www.hackerrank.com/challenges/python-loops/problem)
 
-### Day 7: April 13th 2021
+## Day 7: April 13th 2021
 
 **Today's Progress**: Worked On a lot more Django than I thought possible. From a monolith app to learning Django REST framework. Cool Stuff, cannot wait for tommorow.
 
@@ -70,7 +70,7 @@
 
 **Link(s) to work**:
 
-### Day 8: April 14th 2021
+## Day 8: April 14th 2021
 
 **Today's Progress**:
 
@@ -78,7 +78,7 @@
 
 **Link(s) to work**:
 
-### Day 9: April 15th 2021
+## Day 9: April 15th 2021
 
 **Today's Progress**:
 
@@ -86,7 +86,7 @@
 
 **Link(s) to work**:
 
-### Day 10: April 16th 2021
+## Day 10: April 16th 2021
 
 **Today's Progress**:
 
@@ -94,7 +94,7 @@
 
 **Link(s) to work**:
 
-### Day 11: April 117th 2021
+## Day 11: April 117th 2021
 
 **Today's Progress**:
 
@@ -102,7 +102,7 @@
 
 **Link(s) to work**:
 
-### Day 12: April 18th 2021
+## Day 12: April 18th 2021
 
 **Today's Progress**:
 
@@ -110,7 +110,7 @@
 
 **Link(s) to work**:
 
-### Day 13: April 19th 2021
+## Day 13: April 19th 2021
 
 **Today's Progress**:
 
@@ -118,7 +118,7 @@
 
 **Link(s) to work**:
 
-### Day 14: April 20th 2021
+## Day 14: April 20th 2021
 
 **Today's Progress**:
 
@@ -126,7 +126,7 @@
 
 **Link(s) to work**:
 
-### Day 15: April 21st 2021
+## Day 15: April 21st 2021
 
 **Today's Progress**:
 
@@ -134,7 +134,7 @@
 
 **Link(s) to work**:
 
-### Day 16: April 22nd 2021
+## Day 16: April 22nd 2021
 
 **Today's Progress**:
 
@@ -142,7 +142,7 @@
 
 **Link(s) to work**:
 
-### Day 17: April 23rd 2021
+## Day 17: April 23rd 2021
 
 **Today's Progress**:
 
@@ -150,7 +150,7 @@
 
 **Link(s) to work**:
 
-### Day 18: April 24th 2021
+## Day 18: April 24th 2021
 
 **Today's Progress**:
 
