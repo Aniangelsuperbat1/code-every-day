@@ -72,9 +72,9 @@
 
 ## Day 8: April 14th 2021
 
-**Today's Progress**:
+**Today's Progress**: Started to work on Github Profiles and worked more on Django, learning auth and will learn to deploy to Heroku soon!
 
-**Thoughts**:
+**Thoughts**: Today was a good day! Was able to learn a lot more by recognizing the patterns of Django. The initial setup for Django is quite extensive but doable if one sits down focuses.
 
 **Link(s) to work**:
 
