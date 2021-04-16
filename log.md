@@ -80,11 +80,11 @@
 
 ## Day 9: April 15th 2021
 
-**Today's Progress**:
+**Today's Progress**: Did a lot more with Django. Learned how to deploy Django backend to Heroku! Not and easy feat. Thinking about what to do for project 4, the last project to rule them all.
 
-**Thoughts**:
+**Thoughts**: The Course is almost ending. It all feels bittersweet. everyone I have met here are friends for life. I will miss these guys, more than I thought possible. 
 
-**Link(s) to work**:
+**Link(s) to work**:[Sort numbers](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003)
 
 ## Day 10: April 16th 2021
 
