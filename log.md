@@ -88,9 +88,9 @@
 
 ## Day 10: April 16th 2021
 
-**Today's Progress**:
+**Today's Progress**: Completed a few mock technical interviews. Did not expect the two sum problem but was glad to see actual employers use problems from leetcode. Shout out to Jordan Smith who volunteered to be the guinea pig!
 
-**Thoughts**:
+**Thoughts**: Today was the last full day of classes. It is a bittersweet ending but not a forever ending, just a see you soon ending.
 
 **Link(s) to work**:
 
