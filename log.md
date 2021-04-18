@@ -94,11 +94,11 @@
 
 **Link(s) to work**:
 
-## Day 11: April 117th 2021
+## Day 11: April 17th 2021
 
-**Today's Progress**:
+**Today's Progress**: Continuing to work on my final project. Trying to maintain twitter and 100 days of code. Working on coding challenges. 
 
-**Thoughts**:
+**Thoughts**: the last project I have to do for GA is being a lot more difficult than I thought it would be. implementing Alan AI voice assistant is proving challenging. My backend Api doesnt work, so may have to switch to an external one. All in all today was a good day. Didnt rest much, but got a lot of work done.
 
 **Link(s) to work**:
 
