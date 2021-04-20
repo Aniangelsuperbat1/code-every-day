@@ -104,9 +104,9 @@
 
 ## Day 12: April 18th 2021
 
-**Today's Progress**:
+**Today's Progress**: Built out the entire backend to my project four. Added firebase as well. Had no time to work on code challenges but will endeavor to manage my time better.
 
-**Thoughts**:
+**Thoughts**: Today was a good day. Got my backend set up and deployed. Added firebase to my project but in the end it was not needed, if I am able to use it, that would be amazing. Maybe for auth?
 
 **Link(s) to work**:
 
