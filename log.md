@@ -112,9 +112,9 @@
 
 ## Day 13: April 19th 2021
 
-**Today's Progress**:
+**Today's Progress**: Getting stuck on getting data back from my backend. Working to fix that. Keep getting undefined but the backend is deployed and working on Heroku. 
 
-**Thoughts**:
+**Thoughts**: Today was a little rough. I am trying everything but Ala AI just wont give me back any data whatsoever. Need to ask for help or pivot to using an external API. Was not able to try any coding challenges. 
 
 **Link(s) to work**:
 
