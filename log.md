@@ -120,11 +120,11 @@
 
 ## Day 14: April 20th 2021
 
-**Today's Progress**:
+**Today's Progress**: I am still trying to get data back from my backend. Alan Ai does not want to cooperate and time is dwindling. Was able to squeeze in a level 7 kata today!
 
-**Thoughts**:
+**Thoughts**: I really don't want to use an external API but I dont want to ask for help either as help after the course will not be there
 
-**Link(s) to work**:
+**Link(s) to work**: [Padded nums](https://www.codewars.com/kata/51c89385ee245d7ddf000001)
 
 ## Day 15: April 21st 2021
 
