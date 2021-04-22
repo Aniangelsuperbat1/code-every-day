@@ -128,9 +128,9 @@
 
 ## Day 15: April 21st 2021
 
-**Today's Progress**:
+**Today's Progress**: Was FINALLY able to get data back from Backend with the help of Esin. I do not know how I will trouble shoot without help in the futrue haha. Was also able to get a hacker rank code challenge under my belt. It was a super super simple one. Just needed to use a format string.
 
-**Thoughts**:
+**Thoughts**: Today was a good day. Was able to finally start making big moves on project 4, now that I can get data back from my backend. Just thinking about stretch goals and what I can do from here!!!
 
 **Link(s) to work**:
 
