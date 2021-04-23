@@ -82,7 +82,7 @@
 
 **Today's Progress**: Did a lot more with Django. Learned how to deploy Django backend to Heroku! Not and easy feat. Thinking about what to do for project 4, the last project to rule them all.
 
-**Thoughts**: The Course is almost ending. It all feels bittersweet. everyone I have met here are friends for life. I will miss these guys, more than I thought possible. 
+**Thoughts**: The Course is almost ending. It all feels bittersweet. everyone I have met here are friends for life. I will miss these guys, more than I thought possible.
 
 **Link(s) to work**:[Sort numbers](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003)
 
@@ -96,7 +96,7 @@
 
 ## Day 11: April 17th 2021
 
-**Today's Progress**: Continuing to work on my final project. Trying to maintain twitter and 100 days of code. Working on coding challenges. 
+**Today's Progress**: Continuing to work on my final project. Trying to maintain twitter and 100 days of code. Working on coding challenges.
 
 **Thoughts**: the last project I have to do for GA is being a lot more difficult than I thought it would be. implementing Alan AI voice assistant is proving challenging. My backend Api doesnt work, so may have to switch to an external one. All in all today was a good day. Didnt rest much, but got a lot of work done.
 
@@ -112,9 +112,9 @@
 
 ## Day 13: April 19th 2021
 
-**Today's Progress**: Getting stuck on getting data back from my backend. Working to fix that. Keep getting undefined but the backend is deployed and working on Heroku. 
+**Today's Progress**: Getting stuck on getting data back from my backend. Working to fix that. Keep getting undefined but the backend is deployed and working on Heroku.
 
-**Thoughts**: Today was a little rough. I am trying everything but Ala AI just wont give me back any data whatsoever. Need to ask for help or pivot to using an external API. Was not able to try any coding challenges. 
+**Thoughts**: Today was a little rough. I am trying everything but Ala AI just wont give me back any data whatsoever. Need to ask for help or pivot to using an external API. Was not able to try any coding challenges.
 
 **Link(s) to work**:
 
@@ -136,9 +136,9 @@
 
 ## Day 16: April 22nd 2021
 
-**Today's Progress**:
+**Today's Progress**: Was able to add more functionality to the Alan AI app. Almost done with the project!
 
-**Thoughts**:
+**Thoughts**: This last project seems so long and short at the same time. Maybe because I know everything is coming to and end soon and I want to savor every moment before it does. We all have come so far! I am so proud of each and eveyone of us and cannot wait to meet everyone in person.
 
 **Link(s) to work**:
 
