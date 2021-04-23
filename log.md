@@ -140,13 +140,13 @@
 
 **Thoughts**: This last project seems so long and short at the same time. Maybe because I know everything is coming to and end soon and I want to savor every moment before it does. We all have come so far! I am so proud of each and eveyone of us and cannot wait to meet everyone in person.
 
-**Link(s) to work**:
+**Link(s) to work**: 
 
 ## Day 17: April 23rd 2021
 
-**Today's Progress**:
+**Today's Progress**: Most functionality is done for my project! just need to add styling. The bane of my existence. 
 
-**Thoughts**:
+**Thoughts**: Today was a little tough, there were serveral bugs that annoyed me and took time to track down and fix. My backend broke, then the code on the react app broke and finally deploying the front end broke. Was able to get everything fixed in the end so all was good!
 
 **Link(s) to work**:
 
