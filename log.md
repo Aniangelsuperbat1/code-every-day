@@ -152,8 +152,8 @@
 
 ## Day 18: April 24th 2021
 
-**Today's Progress**:
+**Today's Progress**: Deployed my project to Netlify. Trying to add some more stretch goals and make it pretty.
 
-**Thoughts**:
+**Thoughts**: Today was less intense than any other. Was able to relax more and just think what else can be added to the project. 
 
 **Link(s) to work**:
