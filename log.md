@@ -157,3 +157,11 @@
 **Thoughts**: Today was less intense than any other. Was able to relax more and just think what else can be added to the project. 
 
 **Link(s) to work**:
+
+## Day 19: April 25th 2021
+
+**Today's Progress**: Deployed my project to Netlify. Trying to add some more stretch goals and make it pretty.
+
+**Thoughts**: Today was less intense than any other. Was able to relax more and just think what else can be added to the project. This is the last weekend of General Assembly and tomorrow will be the last day of classes. It is a bittersweet moment and I am terrified of what is to come next but I know I have been given the tools to conquer whatever is in my path. Onward and forward!
+
+**Link(s) to work**:
