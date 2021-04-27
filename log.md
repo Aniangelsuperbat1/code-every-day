@@ -165,3 +165,11 @@
 **Thoughts**: Today was less intense than any other. Was able to relax more and just think what else can be added to the project. This is the last weekend of General Assembly and tomorrow will be the last day of classes. It is a bittersweet moment and I am terrified of what is to come next but I know I have been given the tools to conquer whatever is in my path. Onward and forward!
 
 **Link(s) to work**:
+
+## Day 20: April 26th 2021
+
+**Today's Progress**: Presented my final project for the last time in GA SEIR 201. 
+
+**Thoughts**: The emotions are finally hitting me now. So many questions. What do I do now? Where Ddo i go from here? I mean, I know the answers but it just seems so strange. I have been through the trenches with my classmates almost everyday for the past three months. And not being able to see them tomorrow will be strange. Tomorrow will be a new chapter, and I welcome it with open arms. It has been an honor knowing each and every one of you guys. Now the real work begins.
+
+**Link(s) to work**:
