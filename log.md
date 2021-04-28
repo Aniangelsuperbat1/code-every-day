@@ -173,3 +173,11 @@
 **Thoughts**: The emotions are finally hitting me now. So many questions. What do I do now? Where Ddo i go from here? I mean, I know the answers but it just seems so strange. I have been through the trenches with my classmates almost everyday for the past three months. And not being able to see them tomorrow will be strange. Tomorrow will be a new chapter, and I welcome it with open arms. It has been an honor knowing each and every one of you guys. Now the real work begins.
 
 **Link(s) to work**:
+
+## Day 21: April 27th 2021
+
+**Today's Progress**: Worked on polishing my project four a little bit and worked on Leet code challenges. Worked on resume and Linked in. Going to start on my next project real soon! going to write python scripts to control a drone!
+
+**Thoughts**: Took a half day today. Did a little work but not too much. Wanted a slight break before I go crazy again. 8-14 hour days of leet code. projects and applying for jobs, here I come!
+
+**Link(s) to work**:
