@@ -181,3 +181,9 @@
 **Thoughts**: Took a half day today. Did a little work but not too much. Wanted a slight break before I go crazy again. 8-14 hour days of leet code. projects and applying for jobs, here I come!
 
 **Link(s) to work**:
+
+## Day 22: April 27th 2021
+
+**Today's Progress**: Started my portfolio website. Finalizing resume and Linkedin. Created notion job application homepage. 
+
+**Thoughts**: 
