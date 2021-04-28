@@ -186,4 +186,4 @@
 
 **Today's Progress**: Started my portfolio website. Finalizing resume and Linkedin. Created notion job application homepage. 
 
-**Thoughts**: 
+**Thoughts**: I took today slow as well. Still feeling a little burnt out and want to take a slightly longer break. Aiming to be job applying ready by Monday, May 3rd. All my projects polished, LinkedIn and resume finalized and portfolio website done. 
