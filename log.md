@@ -182,8 +182,14 @@
 
 **Link(s) to work**:
 
-## Day 22: April 27th 2021
+## Day 22: April 28th 2021
 
 **Today's Progress**: Started my portfolio website. Finalizing resume and Linkedin. Created notion job application homepage. 
 
 **Thoughts**: I took today slow as well. Still feeling a little burnt out and want to take a slightly longer break. Aiming to be job applying ready by Monday, May 3rd. All my projects polished, LinkedIn and resume finalized and portfolio website done. 
+
+## Day 23: April 29th 2021
+
+**Today's Progress**: Was able to create my portfolio website
+
+**Thoughts**: Got my portfolio website done in one day. It sure as hell not pretty but it's something. Definitely on the path of be ready to apply for jobs! Sadly, did not put any time today into leetcode but will do so tomorrow and all weekend!
