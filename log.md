@@ -193,3 +193,9 @@
 **Today's Progress**: Was able to create my portfolio website
 
 **Thoughts**: Got my portfolio website done in one day. It sure as hell not pretty but it's something. Definitely on the path of be ready to apply for jobs! Sadly, did not put any time today into leetcode but will do so tomorrow and all weekend!
+
+## Day 24: April 30th 2021
+
+**Today's Progress**: Was able to deploy my portfolio website after fighting with Netlify more than I needed to!
+
+**Thoughts**: It is the weekend. So taking it slow but am going to get all materials to be prepared to job search by monday!
