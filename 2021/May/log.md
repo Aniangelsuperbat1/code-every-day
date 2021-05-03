@@ -1,3 +1,5 @@
+# 100 Days Of Code - Log
+
 ### Day 25: Saturday May 1st 2021
 
 **Today's Progress**: Decided to take the weekend off. So just adding some new features to github profiles.
