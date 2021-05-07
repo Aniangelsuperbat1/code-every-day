@@ -37,3 +37,11 @@
 **Today's Progress**: Attempted a leetcode challenge. Read 50 pages of cracking the coding interview. Added blog posts to my blog. 
 
 **Thoughts**: I need to step up my game and put more hours in if I am to succeed. Need to start applying to jobs. Cannot let perfect be the enemy of good.
+
+**Link(s) to work**:
+
+### Day 30: Thurs. May 6th 2021
+
+**Today's Progress**: Added to my blog, fixed the blog layout. Did some more leetcode challenges.
+
+**Thoughts**: Have all the materials to apply for jobs, just need to start applying like mad! Have the whole weekend to catch up!
