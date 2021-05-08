@@ -46,8 +46,15 @@
 
 **Thoughts**: Have all the materials to apply for jobs, just need to start applying like mad! Have the whole weekend to catch up!
 
-### Day 30: Thurs. May 7th 2021
+### Day 31: Fri. May 7th 2021
 
 **Today's Progress**: Posted on my blog again. Attempted a hard question on leetcode. Did not go well, but hey. Progress, right? 
 
 **Thoughts**: Todays aprogress was a little slower than i would have liked. Want to be at a point where I am applying for 10-15 jobs a day. Will get there soon!
+
+### Day 32: Sat. May 8th 2021
+
+**Today's Progress**: Gained more knowledge on CSS. 
+
+**Thoughts**: Tripling down on my weaknesses! Was able to get some CSS exercises done today and helped out a fellow programmer! 
+
