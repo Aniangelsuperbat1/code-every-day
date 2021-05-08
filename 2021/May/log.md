@@ -45,3 +45,9 @@
 **Today's Progress**: Added to my blog, fixed the blog layout. Did some more leetcode challenges.
 
 **Thoughts**: Have all the materials to apply for jobs, just need to start applying like mad! Have the whole weekend to catch up!
+
+### Day 30: Thurs. May 7th 2021
+
+**Today's Progress**: Posted on my blog again. Attempted a hard question on leetcode. Did not go well, but hey. Progress, right? 
+
+**Thoughts**: Todays aprogress was a little slower than i would have liked. Want to be at a point where I am applying for 10-15 jobs a day. Will get there soon!
