@@ -58,3 +58,8 @@
 
 **Thoughts**: Tripling down on my weaknesses! Was able to get some CSS exercises done today and helped out a fellow programmer! 
 
+### Day 33: Sun. May 9th 2021
+
+**Today's Progress**: Did an easy leetcode challenge. Added to final project database.
+
+**Thoughts**: Today was kind of a day off. Didnt do much but am planning to go ful steam tomorrow!
