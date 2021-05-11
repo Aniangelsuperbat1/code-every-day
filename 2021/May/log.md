@@ -63,3 +63,9 @@
 **Today's Progress**: Did an easy leetcode challenge. Added to final project database.
 
 **Thoughts**: Today was kind of a day off. Didnt do much but am planning to go ful steam tomorrow!
+
+### Day 33: Mon. May 10th 2021
+
+**Today's Progress**: Applied to 10 jobs. Fixing Linkedin Profile more. Fixed portfolio website more. Added to blog.
+
+**Thoughts**: Went full steam ahead! Applying to jobs was a lot easier than I thought. It did help that I prepared everything in advance! Tomorrow will be easier!
