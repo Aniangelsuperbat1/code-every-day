@@ -69,3 +69,9 @@
 **Today's Progress**: Applied to 10 jobs. Fixing Linkedin Profile more. Fixed portfolio website more. Added to blog.
 
 **Thoughts**: Went full steam ahead! Applying to jobs was a lot easier than I thought. It did help that I prepared everything in advance! Tomorrow will be easier!
+
+### Day 34: Tues. May 11th 2021
+
+**Today's Progress**: Applied to more jobs. Wrote in blog.
+
+**Thoughts**: Will be more focused on job hunting and completing questions on Leetcode. Will spend a litle less time on projects.
