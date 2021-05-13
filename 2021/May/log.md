@@ -75,3 +75,10 @@
 **Today's Progress**: Applied to more jobs. Wrote in blog.
 
 **Thoughts**: Will be more focused on job hunting and completing questions on Leetcode. Will spend a litle less time on projects.
+
+### Day 35: Weds. May 12th 2021
+
+**Today's Progress**: Added to blog, Applied to some more software postions, finished some LeetCode problems.
+
+**Thoughts**: Slowed down a little bit today again. I have to get my routine and stick with it. I need the discipline
+
