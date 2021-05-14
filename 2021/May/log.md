@@ -82,3 +82,8 @@
 
 **Thoughts**: Slowed down a little bit today again. I have to get my routine and stick with it. I need the discipline
 
+### Day 36: Weds. May 13th 2021
+
+**Today's Progress**: Applied to more positions and did more LeetCode. Want to start a new project and mulling over ideas.
+
+**Thoughts**: Today was slow again. I need to find my drive and motivation to move a lot faster than I am now.
