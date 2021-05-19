@@ -93,3 +93,9 @@
 **Today's Progress**: Did some more LeetCode challenges and applied to more jobs.
 
 **Thoughts**: Took the weekend off and did not commit to log. Will strive to commit everyday from now on. Even when I take the weekend off.
+
+### Day 41: Tues. May 18th 2021
+
+**Today's Progress**: Applied to 20 jobs!
+
+**Thoughts**: Went crazy on the job applications but didnt do anything else. Will have to do more Leetcode tomorrow.
