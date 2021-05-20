@@ -99,3 +99,7 @@
 **Today's Progress**: Applied to 20 jobs!
 
 **Thoughts**: Went crazy on the job applications but didnt do anything else. Will have to do more Leetcode tomorrow.
+
+### Day 42: Weds. May 19th 2021
+
+**Today's Progress**: Applied to more jobs and updated portfolio. Need to do a lot more than I am now. A lot more.
