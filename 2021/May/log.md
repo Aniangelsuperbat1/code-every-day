@@ -103,3 +103,7 @@
 ### Day 42: Weds. May 19th 2021
 
 **Today's Progress**: Applied to more jobs and updated portfolio. Need to do a lot more than I am now. A lot more.
+
+### Day 43: Weds. May 20th 2021
+
+**Today's Progress**: Applied to more jobs and updated portfolio. Need to do a lot more than I am now. A lot more. I am beginning to slow down a lot which is not good. Will get back to being discliplined. And fast.
