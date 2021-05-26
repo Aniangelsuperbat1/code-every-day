@@ -117,3 +117,9 @@
 **Today's Progress**: Took weekend off again. I should not have.
 
 **Thoughts**: I need to step up my game.
+
+### Day 48: Tues. May 25th 2021
+
+**Today's Progress**: Added to blog and did some LeetCode.
+
+**Thoughts**: Need to do more. 
