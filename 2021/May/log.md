@@ -104,10 +104,16 @@
 
 **Today's Progress**: Applied to more jobs and updated portfolio. Need to do a lot more than I am now. A lot more.
 
+**Thoughts**: 
+
 ### Day 43: Thurs. May 20th 2021
 
 **Today's Progress**: Applied to more jobs and updated portfolio. Need to do a lot more than I am now. A lot more. I am beginning to slow down a lot which is not good. Will get back to being discliplined. And fast.
 
+**Thoughts**:
+
 ### Day 47: Monday. May 24th 2021
 
 **Today's Progress**: Took weekend off again. I should not have.
+
+**Thoughts**: I need to step up my game.
