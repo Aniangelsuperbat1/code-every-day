@@ -123,3 +123,9 @@
 **Today's Progress**: Added to blog and did some LeetCode.
 
 **Thoughts**: Need to do more. 
+
+### Day 49: Weds. May 26th 2021
+
+**Today's Progress**: Added to blog and did some LeetCode.
+
+**Thoughts**: Need to do more. A lot more.
