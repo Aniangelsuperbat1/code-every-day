@@ -129,3 +129,9 @@
 **Today's Progress**: Added to blog and did some LeetCode.
 
 **Thoughts**: Need to do more. A lot more.
+
+### Day 50: Thurs. May 27thth 2021
+
+**Today's Progress**: Grinding LeetCode and applied to more jobs.
+
+**Thoughts**: Need to do more. A lot more. Need to put it into over 9000
