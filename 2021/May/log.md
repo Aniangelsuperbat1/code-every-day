@@ -130,8 +130,14 @@
 
 **Thoughts**: Need to do more. A lot more.
 
-### Day 50: Thurs. May 27thth 2021
+### Day 50: Thurs. May 27th 2021
 
 **Today's Progress**: Grinding LeetCode and applied to more jobs.
 
 **Thoughts**: Need to do more. A lot more. Need to put it into over 9000
+
+### Day 51: Fri. May 28th 2021
+
+**Today's Progress**: Grinding LeetCode and applied to more jobs. Also did some katas on code wars.
+
+**Thoughts**: Need to do more. A lot more. Need to put it into over 9000. OVER 9000!
