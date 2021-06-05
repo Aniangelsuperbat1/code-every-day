@@ -9,3 +9,9 @@
 **Today's Progress**: Not much to report. Grinding LeetCode and applied to more jobs. 
 
 **Thoughts**: Slowly starting to ramp up work! Very slow but it is going.
+
+### Day 58: Fri. June 4th 2021
+
+**Today's Progress**: Not much to report. Grinding LeetCode and applied to more jobs. 
+
+**Thoughts**: Slowly starting to ramp up work! Very slow but it is going. Need to ramp up work and fast. Stop being lazy.
