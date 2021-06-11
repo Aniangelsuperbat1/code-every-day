@@ -33,3 +33,9 @@
 **Today's Progress**: Attempted more Leetcode Challenges.
 
 **Thoughts**: There is always more that needs to be done. And I need to step up.
+
+### Day 64: Weds. June 10th 2021
+
+**Today's Progress**: Applied to more jobs and attempted some more Leetcode.
+
+**Thoughts**: Today was a good day. Got a lot of work done.
