@@ -34,8 +34,14 @@
 
 **Thoughts**: There is always more that needs to be done. And I need to step up.
 
-### Day 64: Weds. June 10th 2021
+### Day 64: Thurs. June 10th 2021
 
 **Today's Progress**: Applied to more jobs and attempted some more Leetcode.
 
 **Thoughts**: Today was a good day. Got a lot of work done.
+
+### Day 65: Fri. June 11th 2021
+
+**Today's Progress**: Took a small break. Didnt do much. May take a slow weekend.
+
+**Thoughts**: Need weekends to be slow to recharge.
