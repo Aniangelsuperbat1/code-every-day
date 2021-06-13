@@ -45,3 +45,10 @@
 **Today's Progress**: Took a small break. Didnt do much. May take a slow weekend.
 
 **Thoughts**: Need weekends to be slow to recharge.
+
+### Day 66: Sat. June 12th 2021
+
+**Today's Progress**: Took it slow, just one problem in Leetcode.
+
+**Thoughts**: Need weekends to be slow to recharge.
+
