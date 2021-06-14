@@ -52,3 +52,8 @@
 
 **Thoughts**: Need weekends to be slow to recharge.
 
+### Day 67: Sun. June 13th 2021
+
+**Today's Progress**: Took it slow, just one problem in Leetcode.
+
+**Thoughts**: It was the weekend so took it very slow
