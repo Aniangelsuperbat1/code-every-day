@@ -57,3 +57,9 @@
 **Today's Progress**: Took it slow, just one problem in Leetcode.
 
 **Thoughts**: It was the weekend so took it very slow
+
+### Day 68: Mon. June 14th 2021
+
+**Today's Progress**: Applied to more jobs and did some Leetcode.
+
+**Thoughts**: Started slow when I need to ramp up.
