@@ -63,3 +63,9 @@
 **Today's Progress**: Applied to more jobs and did some Leetcode.
 
 **Thoughts**: Started slow when I need to ramp up.
+
+### Day 69: Tues. June 15th 2021
+
+**Today's Progress**: Reviewed Data Structures and Algos I was familiar with.
+
+**Thoughts**: Started slow when I need to ramp up, big time.
