@@ -69,3 +69,9 @@
 **Today's Progress**: Reviewed Data Structures and Algos I was familiar with.
 
 **Thoughts**: Started slow when I need to ramp up, big time.
+
+### Day 70: TWeds. June 15th 2021
+
+**Today's Progress**: Looked at SASS and Material UI a little more. 
+
+**Thoughts**: Still going very Slow. Need to pick up the pace.
