@@ -75,3 +75,9 @@
 **Today's Progress**: Looked at SASS and Material UI a little more. 
 
 **Thoughts**: Still going very Slow. Need to pick up the pace.
+
+### Day 71: Thurs. June 16th 2021
+
+**Today's Progress**: Learned a little bit of Vue.
+
+**Thoughts**: Need to pick up the pace
