@@ -81,3 +81,9 @@
 **Today's Progress**: Learned a little bit of Vue.
 
 **Thoughts**: Need to pick up the pace
+
+### Day 75: Mon. June 21st 2021
+
+**Today's Progress**: Took weekend off. Started with Leetcode again.
+
+**Thoughts**: Need to pick up the pace
