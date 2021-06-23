@@ -87,3 +87,9 @@
 **Today's Progress**: Took weekend off. Started with Leetcode again.
 
 **Thoughts**: Need to pick up the pace
+
+### Day 76: Tues. June 22nd 2021
+
+**Today's Progress**: Did code challenges.
+
+**Thoughts**: I need to move a lot faster
