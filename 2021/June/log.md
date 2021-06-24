@@ -93,3 +93,9 @@
 **Today's Progress**: Did code challenges.
 
 **Thoughts**: I need to move a lot faster
+
+### Day 77: Weds. June 23rd 2021
+
+**Today's Progress**: Applied to more jobs
+
+**Thoughts**: I need to move a lot faster and remember why I am fighting to stay in the fight. 
