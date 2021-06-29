@@ -99,3 +99,9 @@
 **Today's Progress**: Applied to more jobs
 
 **Thoughts**: I need to move a lot faster and remember why I am fighting to stay in the fight. 
+
+### Day 77: Mon. June 28th 2021
+
+**Today's Progress**: Took the weekend off. Now back on the grind of Leetcode and applying to jobs.
+
+**Thoughts**: Need to be better. Do more.
