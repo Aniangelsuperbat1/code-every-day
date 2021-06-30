@@ -100,8 +100,14 @@
 
 **Thoughts**: I need to move a lot faster and remember why I am fighting to stay in the fight. 
 
-### Day 77: Mon. June 28th 2021
+### Day 82: Mon. June 28th 2021
 
 **Today's Progress**: Took the weekend off. Now back on the grind of Leetcode and applying to jobs.
 
 **Thoughts**: Need to be better. Do more.
+
+### Day 83: Tues. June 29th 2021
+
+**Today's Progress**: Applied to more jobs
+
+**Thoughts**: Two people from my cohort received offers. I am so happy for them. But I am also pissed at myself, I want this so bad and I am not having any good results...yet. Got to stay on the grind.
