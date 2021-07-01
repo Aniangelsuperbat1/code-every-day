@@ -111,3 +111,9 @@
 **Today's Progress**: Applied to more jobs
 
 **Thoughts**: Two people from my cohort received offers. I am so happy for them. But I am also pissed at myself, I want this so bad and I am not having any good results...yet. Got to stay on the grind.
+
+### Day 84: Weds. June 30th 2021
+
+**Today's Progress**: Applied to more jobs and did a leetcode question. 
+
+**Thoughts**: Must apply to more jobs each day and leetcode more. Must do so much more.
