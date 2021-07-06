@@ -15,3 +15,9 @@
 **Today's Progress**: Applied to more jobs and did some leetcode challenges.
 
 **Thoughts**: I need to stop taking so manny breaks. I know what must be done. Now, get it done!
+
+### Day 89: Mon. july 5th 2021
+
+**Today's Progress**: Applied to more jobs and did some leetcode challenges.
+
+**Thoughts**: Took july 4th off. Starting back up again.
