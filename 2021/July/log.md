@@ -22,8 +22,14 @@
 
 **Thoughts**: Took july 4th off. Starting back up again.
 
-### Day 90: Tues. july 5th 2021
+### Day 90: Tues. july 6th 2021
 
 **Today's Progress**: Applied to more jobs and did some leetcode challenges.
 
 **Thoughts**: I am nowhere near where I need to be. But that is ok. I feel as if I am right where I am supposed to be.
+
+### Day 91: Weds. july 7th 2021
+
+**Today's Progress**: Applied to a lot of jobs. A lot. Didnt have much time to code.
+
+**Thoughts**: I am finally stepping up my game!
