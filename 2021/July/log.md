@@ -33,3 +33,9 @@
 **Today's Progress**: Applied to a lot of jobs. A lot. Didnt have much time to code.
 
 **Thoughts**: I am finally stepping up my game!
+
+### Day 92: Thurs. july 8th 2021
+
+**Today's Progress**: Applied to a lot of jobs. A lot. 
+
+**Thoughts**: I am finally stepping up my game! Have to keep this momentum going!
