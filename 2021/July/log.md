@@ -39,3 +39,9 @@
 **Today's Progress**: Applied to a lot of jobs. A lot. 
 
 **Thoughts**: I am finally stepping up my game! Have to keep this momentum going!
+
+### Day 95: Sun. july 11th 2021
+
+**Today's Progress**: Applied to a lot of jobs. A lot. 
+
+**Thoughts**: I am finally stepping up my game! Been keeping the momentum going too!!!
