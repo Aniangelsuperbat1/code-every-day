@@ -45,3 +45,9 @@
 **Today's Progress**: Applied to a lot of jobs. A lot. 
 
 **Thoughts**: I am finally stepping up my game! Been keeping the momentum going too!!!
+
+### Day 96: Mon. july 12th 2021
+
+**Today's Progress**: Didn't apply to that many jobs today but am falling into a rhythm of consistently doing so, which is good.
+
+**Thoughts**: I am finally stepping up my game! Been keeping the momentum going too!!!
