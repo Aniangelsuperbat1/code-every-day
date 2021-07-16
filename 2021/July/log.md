@@ -51,3 +51,9 @@
 **Today's Progress**: Didn't apply to that many jobs today but am falling into a rhythm of consistently doing so, which is good.
 
 **Thoughts**: I am finally stepping up my game! Been keeping the momentum going too!!!
+
+### Day 100: Fri. july 16th 2021
+
+**Today's Progress**: Made it to 100 Days of coding. Forever onward!
+
+**Thoughts**: I am finally applying to more jobs everyday and getting at least some responses. Got a phone screen soon!
