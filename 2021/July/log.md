@@ -57,3 +57,9 @@
 **Today's Progress**: Made it to 100 Days of coding. Forever onward!
 
 **Thoughts**: I am finally applying to more jobs everyday and getting at least some responses. Got a phone screen soon!
+
+ ### Sat. july 16th 2021
+
+ **Today's Progress**: Today was a good day. Went through Grokking algorithms book to refresh myself. Keep on trucking on.
+
+ **Thoughts**: More good days ahead.
