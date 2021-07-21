@@ -63,3 +63,9 @@
  **Today's Progress**: Today was a good day. Went through Grokking algorithms book to refresh myself. Keep on trucking on.
 
  **Thoughts**: More good days ahead.
+
+ ### Tues. july 20th 2021
+
+ **Today's Progress**: Getting responses from companies!!! Also applied to more jobs!
+
+ **Thoughts**: More good days ahead.
