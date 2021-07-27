@@ -69,3 +69,9 @@
  **Today's Progress**: Getting responses from companies!!! Also applied to more jobs!
 
  **Thoughts**: More good days ahead.
+
+  ### Tues. july 26th 2021
+
+  **Today's Progress**: Got rejected from a job in the second round. I really wanted this job too. I am ok, but it still hurts.
+
+  **Thoughts**: More good days ahead. Got to just keep moving forward.
