@@ -75,3 +75,9 @@
   **Today's Progress**: Got rejected from a job in the second round. I really wanted this job too. I am ok, but it still hurts.
 
   **Thoughts**: More good days ahead. Got to just keep moving forward.
+
+  ### Mon. August 2nd 2021
+
+  **Today's Progress**: Applied to jobs and studied more
+
+   **Thoughts**: I am applying to more jobs everyday but getting nowhere. Some phone screen and some take home tests but not moving forward as much as I want. Better fays to come though.
