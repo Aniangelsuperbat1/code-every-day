@@ -58,26 +58,32 @@
 
 **Thoughts**: I am finally applying to more jobs everyday and getting at least some responses. Got a phone screen soon!
 
- ### Sat. july 16th 2021
+### Sat. july 16th 2021
 
- **Today's Progress**: Today was a good day. Went through Grokking algorithms book to refresh myself. Keep on trucking on.
+**Today's Progress**: Today was a good day. Went through Grokking algorithms book to refresh myself. Keep on trucking on.
 
- **Thoughts**: More good days ahead.
+**Thoughts**: More good days ahead.
 
- ### Tues. july 20th 2021
+### Tues. july 20th 2021
 
- **Today's Progress**: Getting responses from companies!!! Also applied to more jobs!
+**Today's Progress**: Getting responses from companies!!! Also applied to more jobs!
 
- **Thoughts**: More good days ahead.
+**Thoughts**: More good days ahead.
 
-  ### Tues. july 26th 2021
+### Tues. july 26th 2021
 
-  **Today's Progress**: Got rejected from a job in the second round. I really wanted this job too. I am ok, but it still hurts.
+**Today's Progress**: Got rejected from a job in the second round. I really wanted this job too. I am ok, but it still hurts.
 
-  **Thoughts**: More good days ahead. Got to just keep moving forward.
+**Thoughts**: More good days ahead. Got to just keep moving forward.
 
-  ### Mon. August 2nd 2021
+### Mon. August 2nd 2021
 
-  **Today's Progress**: Applied to jobs and studied more
+**Today's Progress**: Applied to jobs and studied more
 
-   **Thoughts**: I am applying to more jobs everyday but getting nowhere. Some phone screen and some take home tests but not moving forward as much as I want. Better fays to come though.
+**Thoughts**: I am applying to more jobs everyday but getting nowhere. Some phone screen and some take home tests but not moving forward as much as I want. Better fays to come though.
+
+### Tues. August 3rd 2021
+
+**Today's Progress**: Went back to basics of Python and JavaScript. Applied to more jobs as well.
+
+**Thoughts**: I am at a good place now. Getting responses and studying a lot more.
