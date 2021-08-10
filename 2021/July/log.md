@@ -87,3 +87,10 @@
 **Today's Progress**: Went back to basics of Python and JavaScript. Applied to more jobs as well.
 
 **Thoughts**: I am at a good place now. Getting responses and studying a lot more.
+
+### Tues. August 10th 2021
+
+**Today's Progress**: Applied to more jobs and thinking of what I need to study on.
+
+**Thoughts**: I have recently learned there is a lot I need to study and that I do not know but I am all for the challenge.
+
