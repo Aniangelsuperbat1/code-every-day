@@ -94,3 +94,9 @@
 
 **Thoughts**: I have recently learned there is a lot I need to study and that I do not know but I am all for the challenge.
 
+### Thurs. August 12th 2021
+
+**Today's Progress**: Applied to more jobs and did more Leetcode!!!
+
+**Thoughts**: All aboard the learning train!
+
