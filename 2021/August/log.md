@@ -27,3 +27,7 @@
 **Today's Progress**: Applied to more jobs. Added more to an Angular project. And learning Mysql 
 
 **Thoughts**: Getting a lot of responses. I am in the running for 4 companies. They are still in early stages but still! I am in the running.
+
+### Sunday August 29th 2021
+
+**Today's Progress**: Applied for more jobs Deployed Recently finished Angular App. Learning more of PostgreSQL. And Starting my new Django Application. Today was a good day.  
