@@ -15,3 +15,9 @@
 **Today's Progress**: Taking the day off. Do not feel well.
 
 **Thoughts**: Everything is moving a long but slow. Need to be faste
+
+### Fri. September 17th 2021
+
+**Today's Progress**: Having so many interviews and loving it!
+
+**Thoughts**: Everything is happening so fast and I am here for it.
